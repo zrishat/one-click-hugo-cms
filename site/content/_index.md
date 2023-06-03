@@ -1,7 +1,7 @@
 ---
 title: Добро пожаловать.
 subtitle: Посвященный кредитным программам!
-image: https://image.lexica.art/full_jpg/edc7dd01-bed9-4a60-bad3-64a52bd3334d
+image: https://image.lexica.art/full_jpg/45fef216-d99a-43b8-a5ea-47b605a7513a
 blurb:
   heading: Почему мы?
   text: >+
