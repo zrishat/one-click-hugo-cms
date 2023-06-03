@@ -1,5 +1,5 @@
 ---
-title: Добро пожаловать на наш сайт.
+title: Добро пожаловать.
 subtitle: Посвященный кредитным программам!
 image: https://image.lexica.art/full_jpg/edc7dd01-bed9-4a60-bad3-64a52bd3334d
 blurb:
