@@ -1,31 +1,36 @@
 ---
-title: Добро пожаловать!
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Добро пожаловать на наш сайт, посвященный кредитным программам!
+subtitle: Мы рады приветствовать вас в нашем уникальном и информативном
+  пространстве, где вы сможете найти все необходимые данные о кредитных
+  программах.
+image: https://image.lexica.art/full_jpg/edc7dd01-bed9-4a60-bad3-64a52bd3334d
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Почему мы?
+  text: >+
+    Наш сайт предлагает вам широкий выбор кредитных программ, которые помогут
+    вам решить различные финансовые проблемы. Мы предоставляем информацию о
+    кредитах на жилье, автокредиты, кредиты на образование, бизнес-кредиты и
+    многое другое.
+
+
+
 intro:
   heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  text: На нашем сайте вы найдете подробные описания каждой кредитной программы,
+    включая условия, требования, процентные ставки, сроки и другие важные
+    детали. Мы также предоставляем возможность сравнить различные программы и
+    выбрать наиболее подходящую для вас.
 products:
   - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+    text: >+
+      Кроме того, на нашем сайте вы можете получить консультации от наших
+      экспертов, которые помогут вам выбрать наиболее выгодную кредитную
+      программу и ответят на все ваши вопросы.
+
   - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+    text: Мы уверены, что наш сайт станет вашим надежным источником информации о
+      кредитных программах и поможет вам принять правильное решение при выборе
+      кредита. Спасибо, что выбрали нас!
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
